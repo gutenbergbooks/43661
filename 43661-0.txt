@@ -1,37 +1,4 @@
-The Project Gutenberg EBook of The Vision and Creed of Piers Ploughman,
-Volume II of II, by William Langland
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Vision and Creed of Piers Ploughman, Volume II of II
-
-Author: William Langland
-
-Editor: Thomas Wright
-
-Release Date: September 7, 2013 [EBook #43661]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK VISION, CREED, PIERS PLOUGHMAN, VOL II ***
-
-
-
-
-Produced by Mark C. Orton, Keith Edkins and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 43661 ***
 
 Transcriber's note: A few obvious typographical errors have been corrected:
 they are listed at the end of the text.
@@ -40,13 +7,12 @@ In this edition line numbers are displayed on every tenth line--in the
 printed work they were synchronised to the pagination, with sometimes only
 one number per page. Lines marked = were printed AND COUNTED as two lines.
 
-Text enclosed by underscores is in italics (_italics_). Thorn and eth
-characters (in cited passages) are expanded to th and dh respectively. A
-carat character is used to denote superscription. A single character, or
-group enclosed enclosed in curly brackets, following the carat is
-superscripted (example: .xxx.^{ti}). In the main texts of The Vision and
-The Creed, the numbers of the original pages are enclosed in curly brackets
-to facilitate the use of the glossary.
+Text enclosed by underscores is in italics (_italics_). A carat character
+is used to denote superscription. A single character, or group enclosed
+enclosed in curly brackets, following the carat is superscripted (example:
+.xxx.^{ti}). In the main texts of The Vision and The Creed, the numbers of
+the original pages are enclosed in curly brackets to facilitate the use of
+the glossary.
 
 Project Gutenberg has the other volume of this work.
 Volume I: see http://www.gutenberg.org/ebooks/43660
@@ -70,7 +36,7 @@ Library of Old Authors.
   BY THOMAS WRIGHT, M.A. F.S.A. &c.
 
   Corresponding Member of the Imperial Institute of France,
-  Academie des Inscriptions et Belles-Lettres.
+  Académie des Inscriptions et Belles-Lettres.
 
   IN TWO VOLUMES.
 
@@ -318,14 +284,14 @@ Library of Old Authors.
   That it nevere eft is sene ne soor,
   But semeth a wounde y-heeled."
 
-    "Where wonyeth Charite?" quod Haukyn,
+    "Where wonyeth Charité?" quod Haukyn,
   "I wiste nevere in my lyve
   Man that with hym spak,                                 9110
   As wide as I have passed."
 
     "Ther parfit truthe and poore herte is,
   And pacience of tonge,
-  Ther is Charite the chief chaumbrere
+  Ther is Charité the chief chaumbrere
   For God hymselve."
 
     "Wheither paciente poverte," quod Haukyn,
@@ -410,7 +376,7 @@ Library of Old Authors.
   That dyneth er he deserve it,
   And til he have doon his devoir
   {282}
-  And his dayes journee.                                  9190
+  And his dayes journée.                                  9190
   For whan a werkman hath wroght,
   Than many men se the sothe
   What he were worthi for his werk,
@@ -428,13 +394,13 @@ Library of Old Authors.
   And hath hire at the laste.
   It may noght be, ye riche men,
   Or Mathew on God lyeth:
-  _Vae! deliciis ad delicias difficile est
+  _Væ! deliciis ad delicias difficile est
       transire._
 
     "Ac if ye riche have ruthe,
   And rewarde wel the poore,                              9210
   And lyven as lawe techeth,
-  And doon leaute to hem alle,
+  And doon leauté to hem alle,
   Crist of his curteisie
   Shal conforte yow at the laste,
   And rewarden alle double richesse
@@ -514,7 +480,7 @@ Library of Old Authors.
   Jhesu Crist seide,
   To robberis and to reveris,
   To riche and to poore,
-  Thou taughtest hem in the Trinite
+  Thou taughtest hem in the Trinité
   To taken bapteme,
   And to be clene through that cristnyng
   Of alle kynnes synne;
@@ -586,7 +552,7 @@ Library of Old Authors.
   For his poverte and his pacience,                       9350
   A perpetuel blisse.
   _Beati pauperes, quoniam ipsorum
-      est regnum caelorum._
+      est regnum cælorum._
 
     "And pride in richesse regneth
   Rather than in poverte;
@@ -702,7 +668,7 @@ Library of Old Authors.
       donum Dei, sanitatis mater,
   {290}
       absque sollicitudine semita,
-      sapientiae temperatrix, negotium
+      sapientiæ temperatrix, negotium
       sine damno, incerta fortuna,
       absque sollicitudine
       felicitas._"                                        9460
@@ -791,14 +757,14 @@ Library of Old Authors.
   Or listneth to his reson,
   For he tempreth the tonge to trutheward,
   And no tresor coveiteth
-  _Sapientiae temperatrix._
+  _Sapientiæ temperatrix._
 
     "The eightethe is a lele labour,
   And looth to take moore
   Than he may wel deserve,                                9540
   In somer or in wynter.
   And if he chaffareth, he chargeth no losse,
-  Mowe he charite wynne.
+  Mowe he charité wynne.
   _Negotium sine damno._
 
     "The nynthe is swete to the soule,
@@ -951,7 +917,7 @@ Library of Old Authors.
   Al bourdynge that tyme;
   "For bisshopes y-blessed,
   Thei bereth manye names,
-  _Praesul_ and _pontifex_,                               9680
+  _Præsul_ and _pontifex_,                                9680
   And _metropolitanus_,
   And othere names an heep,
   _Episcopus_ and _pastor_."
@@ -1005,7 +971,7 @@ Library of Old Authors.
   And to knowe sciences,
   Putte out of Paradis
   Adam and Eve.
-  _Scientiae appetitus hominem inmortalitatis
+  _Scientiæ appetitus hominem inmortalitatis
       gloria spoliavit._
 
     "And right as hony is yvel to defie,                  9730
@@ -1024,7 +990,7 @@ Library of Old Authors.
   That to lewed men prechen,
   Ye moeven materes unmesurable
   {299}
-  To tellen of the Trinite,
+  To tellen of the Trinité,
   That ofte tymes the lewed peple
   Of hir bileve doute.
   Bettre it were to manye doctours
@@ -1039,7 +1005,7 @@ Library of Old Authors.
   Foliliche spenden
   In housynge, in haterynge,
   And in to heigh clergie shewynge,
-  Moore for pompe than for pure charite,                  9760
+  Moore for pompe than for pure charité,                  9760
   The peple woot the sothe,
   That I lye noght, loo!
   For lordes ye plesen,
@@ -1047,7 +1013,7 @@ Library of Old Authors.
   The rather for hir silver
   _Confundantur omnes qui adorant
       sculptilia. Et alibi: Ut quid
-      diligitis vanitatem, et quaeritis
+      diligitis vanitatem, et quæritis
       mendacium._
 
     "Gooth to the glose of thise vers,                    9770
@@ -1072,7 +1038,7 @@ Library of Old Authors.
   I shal tellen it, for truthes sake,
   Take hede who so liketh.
 
-    "As holynesse and honeste                             9790
+    "As holynesse and honesté                             9790
   Out of holy chirche spredeth
   Thorugh lele libbynge men
   That Goddes lawe techen;
@@ -1206,29 +1172,29 @@ Library of Old Authors.
   {304}
   And in mynde haveth,
   In preieres and in penaunces,
-  And in parfit charite."
+  And in parfit charité."
 
-    "What is charite?" quod I tho.
+    "What is charité?" quod I tho.
   "A childisshe thyng," he seide.
   "_Nisi efficiamini parvuli, non intrabitis
-      in regnum caelorum._
-  Withouten fauntelte or folie,                           9920
+      in regnum cælorum._
+  Withouten fauntelté or folie,                           9920
   A fre liberal wille."
 
     "Where sholde men fynde swich a frend,
   With so fre an herte?"
   "I have lyved in londe," quod he,
   "My name is Longe-wille;
-  And fond I nevere ful charite
+  And fond I nevere ful charité
   Byfore ne bihynde.
   Men beth merciable
   To mendinauntz and to poore,
   And wollen lene ther thei leve                          9930
   Lelly to ben paied.
-  Ac charite that Poul preiseth best,
+  Ac charité that Poul preiseth best,
   And moost plesaunt to oure Lord,
   Is _Non inflatur, non est ambitiosa, non
-      quaerit quae sua sunt, etc_.
+      quærit quæ sua sunt, etc_.
 
     "I seigh nevere swich a man,
   So me God helpe!
@@ -1241,14 +1207,14 @@ Library of Old Authors.
   That Crist is in alle places;
   Ac I seigh hym nevere soothly,
   But as myself in a mirour:
-  _In aenigmate tunc facie ad faciem._
+  _In ænigmate tunc facie ad faciem._
   {305}
   And so I trowe trewely,
-  By that men telleth of charite,
+  By that men telleth of charité,
   It is noght chaumpions fight,
   Ne chaffare, as I trowe,                                9950
 
-    "Charite," quod he, "ne chaffareth noght,
+    "Charité," quod he, "ne chaffareth noght,
   Ne chalangeth, ne craveth;
   As proud of a peny,
   As of a pound of golde;
@@ -1362,7 +1328,7 @@ Library of Old Authors.
   Alle swiche thei faiten.
   Fy on faitours,
   And _in fautores suos_!
-  For charite is Goddes champion,
+  For charité is Goddes champion,
   And as a good child hende,
   And the murieste of mouth
   At mete where he sitteth.
@@ -1370,7 +1336,7 @@ Library of Old Authors.
   Maketh hym light of speche,
   And is compaignable and confortatif,                   10060
   As Crist bit hymselve.
-  _Nolite fieri sicut hypocritae tristes, etc._
+  _Nolite fieri sicut hypocritæ tristes, etc._
   For I have seyen hym in silk,
   And som tyme in russet,
   Bothe in grey and in grys,
@@ -1381,9 +1347,9 @@ Library of Old Authors.
     "Edmond and Edward
   Bothe were kynges,                                     10070
   And seintes y-set,
-  For charite hem folwede.
+  For charité hem folwede.
 
-    "I have y-seyen charite also
+    "I have y-seyen charité also
   Syngen and reden,
   Riden and rennen
   In raggede wedes;
@@ -1432,7 +1398,7 @@ Library of Old Authors.
   But, Lord, amende us alle,
   {310}
   And gyve us grace, good God,
-  Charite to folwe.
+  Charité to folwe.
   For who so myghte meete myd hym,
   Swiche maneres hym eileth,
   Neither he blameth ne banneth,
@@ -1581,7 +1547,7 @@ Library of Old Authors.
   And so youre rule me tolde.
   _Nunquam, dicit Job, rugit onager
       cum herbam habuerit, aut mugiet
-      bos cum ante plenum praesepe
+      bos cum ante plenum præsepe
   {314}
       steterit. Brutorum animalium                       10250
       natura te condemnat,
@@ -1645,17 +1611,17 @@ Library of Old Authors.
   As the book techeth.
   _Quia sacrilegium est res pauperum
       non pauperibus dare. Item:
-      Peccatoribus dare, est daemonibus
+      Peccatoribus dare, est dæmonibus
       immolare. Item: Monache,
       si indiges et accipis, potius
       das quam accipis; si autem
       non eges et accipis, rapis.
       Porro non indiget monachus, si                     10310
-      habeat quod naturae sufficit._
+      habeat quod naturæ sufficit._
 
     "For-thi I counseille alle cristene
-  To conformen hem to charite,
-  For charite withouten chalangynge
+  To conformen hem to charité,
+  For charité withouten chalangynge
   Unchargeth the soule,
   And many a prison fram purgatorie
   {316}
@@ -1733,7 +1699,7 @@ Library of Old Authors.
   Muche wonder me thynketh                               10380
   Amonges us alle,
   Doctours of decrees
-  And of divinite maistres,
+  And of divinité maistres,
   That sholde konne and knowe
   {318}
   Alle kynnes clergie,
@@ -1839,7 +1805,7 @@ Library of Old Authors.
   _Petite et accipietis, etc._
   Salt saveth the catel,
   Siggen thise wives.                                    10480
-  _Vos estis sal terrae, etc._
+  _Vos estis sal terræ, etc._
   The hevedes of holy chirche,
   And thei holy were,
   Crist calleth hem salt
@@ -1927,7 +1893,7 @@ Library of Old Authors.
   In hem that kepeth lawes.
   For as the cow thorugh kynde mylk
   The calf norisseth til an oxe;                         10560
-  So love and leaute
+  So love and leauté
   Lele men susteneth,
   And maidenes and mylde men
   Mercy desiren,
@@ -1949,7 +1915,7 @@ Library of Old Authors.
 
     "What pope or prelat now
   Perfourneth that Crist highte.                         10580
-  _Ite in universum mundum et praedicate, etc._              =
+  _Ite in universum mundum et prædicate, etc._               =
 
     "Allas! that men so longe
   On Makometh sholde bileve,
@@ -1974,8 +1940,8 @@ Library of Old Authors.
   Han a lippe of our bileve,
   The lightlier me thynketh
   Thei sholde turne, who so travailed
-  To teche hem of the Trinite.
-  _Quaerite et invenietis, etc._
+  To teche hem of the Trinité.
+  _Quærite et invenietis, etc._
 
     "It is ruthe to rede
   How rightwise men lyvede,
@@ -2021,7 +1987,7 @@ Library of Old Authors.
 
     "Right so, ye clerkes,
   For youre coveitise, er longe,
-  Shal thei demen _dos ecclesiae_,
+  Shal thei demen _dos ecclesiæ_,
   And youre pride depose,
   _Deposuit potentes de sede, etc._
 
@@ -2042,7 +2008,7 @@ Library of Old Authors.
   Lordshipes and rentes,
   An aungel men herden
   An heigh at Rome crye,
-  _Dos ecclesiae_ this day
+  _Dos ecclesiæ_ this day
   Hath y-dronke venym,
   And tho that han Petres power
   Arn apoisoned alle.
@@ -2096,7 +2062,7 @@ Library of Old Authors.
   Thorugh his province to passe,                         10710
   And to his peple to shewe hym,
   Tellen hem and techen hem
-  On the Trinite to bileve,
+  On the Trinité to bileve,
   And feden hem with goostly foode,
   And gyve there it nedeth.
   _In domo mea non est panis neque
@@ -2184,7 +2150,7 @@ Library of Old Authors.
   _Et in Spiritum sanctum_,
   And reden it and recorden it
   With _remissionem peccatorum,
-  Carnis resurrectionem, et vitam aeternam. Amen._"      10793
+  Carnis resurrectionem, et vitam æternam. Amen._"       10793
 
        *       *       *       *       *
 
@@ -2197,7 +2163,7 @@ Library of Old Authors.
   For Haukyns love, the actif man,
   Evere I shal yow lovye!
   Ac yit I am in a weer
-  What charite is to mene."
+  What charité is to mene."
 
     "It is a ful trie tree," quod he,                    10800
   "Trewely to telle;
@@ -2210,7 +2176,7 @@ Library of Old Authors.
   Pacience hatte the pure tree,
   And pure symple of herte;
   And so, thorugh God and thorugh goode men,             10810
-  Groweth the fruyt charite."
+  Groweth the fruyt charité."
 
     "I wolde travaille," quod I, "this tree to se,
   Twenty hundred myle;
@@ -2342,7 +2308,7 @@ Library of Old Authors.
   The ground there it groweth,
   Goodnesse it hatte;
   And I have told thee what highte the tree,
-  The Trinite it meneth."
+  The Trinité it meneth."
 
     And egreliche he loked on me;
   And therfore I spared
@@ -2449,7 +2415,7 @@ Library of Old Authors.
   Bothe blynde and crokede,                              11020
   And commune wommen convertede,
   And to goode turnede.
-  _Non est sanis opus medicinae, sed in, etc._
+  _Non est sanis opus medicinæ, sed in, etc._
 
     Bothe meseles and mute,
   And in the menyson blody,
@@ -2471,7 +2437,7 @@ Library of Old Authors.
   And juggede lawes
   And seide he wroghte thorugh wichecraft,
   And with the develes myghte.
-  _Daemonium habet, etc._
+  _Dæmonium habet, etc._
 
     Thanne, "are ye cherles," quod ich,
   "And youre children bothe,
@@ -2557,7 +2523,7 @@ Library of Old Authors.
   {340}
   Shal worthe upon thiselve.                             11120
   _Necesse est ut veniant scandala:
-      Vae homini illi per quem scandalum
+      Væ homini illi per quem scandalum
       venit!_
 
     "Though I bi treson be take
@@ -2649,7 +2615,7 @@ Library of Old Authors.
   As for servaunt that tyme,
   To ocupie hym here,                                    11200
   Til issue were spronge,
-  That is, children of charite,
+  That is, children of charité,
   And holi chirche the moder;
   Patriarkes and prophetes
   And apostles were the children,
@@ -2662,8 +2628,8 @@ Library of Old Authors.
   And that it may be so and sooth,
   Manhode it sheweth,
   Wedlok and widwehode,
-  With virginite y-nempned,
-  In tokenynge of the Trinite
+  With virginité y-nempned,
+  In tokenynge of the Trinité
   Was out of man taken.
 
     "Adam was oure aller fader,
@@ -2677,7 +2643,7 @@ Library of Old Authors.
   Oon singuler name;
   And thus is mankynde and manhede
   Of matrimoyne y-spronge,
-  And bitokneth the Trinite
+  And bitokneth the Trinité
   And trewe bileve.
 
     "Mighty is matrimoyne,                               11230
@@ -2755,7 +2721,7 @@ Library of Old Authors.
   Moore yet he grauntede,
   Mercy for oure mys-dedes,
   As many tyme as we asken.
-  _Quam olim Abrahae promisisti et                       11300
+  _Quam olim Abrahæ promisisti et                        11300
       semini ejus._
 
     "And siththe he sente me to seye
@@ -2902,7 +2868,7 @@ Library of Old Authors.
   And lelest to leve so,
   For lif, and for soule?
   Abraham seith                                          11420
-  That he seigh hoolly the Trinite,
+  That he seigh hoolly the Trinité,
   Thre persones in parcelles
   Departable fro oother,
   And alle thre but o god;
@@ -2918,7 +2884,7 @@ Library of Old Authors.
   To savacion and to blisse?
   And now cometh _Spes_ and speketh,
   That aspied the lawe;
-  And telleth noght of the Trinite
+  And telleth noght of the Trinité
   That took hym hise lettres,
   To bileeve and lovye
   In o lord almyghty,
@@ -3030,7 +2996,7 @@ Library of Old Authors.
     And whan I seigh this, I sojourned noght,
   But shoop me to renne,
   And suwed that Samaritan
-  That was so ful of pite,
+  That was so ful of pité,
   And graunted hym to ben his groom.
   "Graunt mercy!" he seide;
   "Ac thi frend and thi felawe," quod he,                11540
@@ -3295,7 +3261,7 @@ Library of Old Authors.
   And wolde his grace quenche.
 
     "And to a torche or a tapur
-  The Trinite is likned;
+  The Trinité is likned;
   As wex and a weke
   Were twyned togideres,
   And thanne a fir flawmynge
@@ -3348,7 +3314,7 @@ Library of Old Authors.
   To myst and to watre.
 
     "So grace of the Holy Goost
-  The greet myght of the Trinite
+  The greet myght of the Trinité
   Melteth to mercy,
   To merciable and to othere;
   And as wex withouten moore
@@ -3458,7 +3424,7 @@ Library of Old Authors.
   For every manere good man
   May be likned to a torche,
   Or ellis to a tapur,
-  To reverence the Trinite;
+  To reverence the Trinité;
   And who morthereth a good man,
   Me thynketh by myn inwit,
   He for-dooth the levest light
@@ -3485,12 +3451,12 @@ Library of Old Authors.
   _Vindica sanguinem justorum._
 
     "Thus 'Vengeaunce! vengeaunce!'
-  Verrey Charite asketh.
-  And sith holy chirche and Charite
+  Verrey Charité asketh.
+  And sith holy chirche and Charité
   Chargeth this so soore,                                11950
   Leve I nevere that oure Lord
-  Wol love that charite lakketh,
-  Ne have pite for any preiere
+  Wol love that charité lakketh,
+  Ne have pité for any preiere
   Ther that he pleyneth."
 
     "I pose I hadde synned so,
@@ -3517,7 +3483,7 @@ Library of Old Authors.
   The peple is so huge,
   That the kyng may do no mercy
   Til bothe men acorde,
-  And eyther have equite,
+  And eyther have equité,
   As holy writ telleth.
   _Nunquam dimittitur peccatum, etc._
 
@@ -3575,7 +3541,7 @@ Library of Old Authors.
   For kynde clyveth on hym evere
   To contrarie the soule.
   And though it falle, it fynt skiles
-  That frelete it made,
+  That freleté it made,
   And that is lightly forgyven                           12030
   And forgeten bothe,
   To man that mercy asketh,
@@ -3979,7 +3945,7 @@ Library of Old Authors.
   The place ther he styngeth,
   Til he be deed, and do therto,
   The yvel he destruyeth,
-  The firste venymouste
+  The firste venymousté
   Thorugh venym of hymselve.                             12390
 
     "So shal this deeth for-do,
@@ -4036,7 +4002,7 @@ Library of Old Authors.
   For Jhesus justede wel,
   Joy bigynneth dawe.
   _Ad vesperum demorabitur fletus, et
-      ad matutinum laetitia._
+      ad matutinum lætitia._
 
     "Love, that is my lemman,                            12440
   Swiche lettres me sente,
@@ -4338,7 +4304,7 @@ Library of Old Authors.
   And Lucifer answerede,
   "What lord artow?" quod Lucifer.                       12710
   _Quis est iste?_
-  "_Rex Gloriae_,"
+  "_Rex Gloriæ_,"
   The light soone seide,
   "And lord of myght and of man,
   And alle manere vertues.
@@ -4515,7 +4481,7 @@ Library of Old Authors.
   Bothe hungry and a-cale;
   Ac blood may noght se blood
   Blede, but hym rewe.
-  _Audivi arcana verba quae non licet
+  _Audivi arcana verba quæ non licet
       homini loqui._
 
     "Ac my rightwisnesse and right
@@ -4582,9 +4548,9 @@ Library of Old Authors.
   And reverentliche hire kiste.
   {395}
   "Pees and pees here!
-  _Per saecula saeculorum._"
+  _Per sæcula sæculorum._"
   _Misericordia et veritas obviaverunt
-      sibi, justitia et pax osculatae sunt._
+      sibi, justitia et pax osculatæ sunt._
 
     Truthe trumpede tho,
   And song _Te Deum laudamus_;                           12940
@@ -4784,7 +4750,7 @@ Library of Old Authors.
   By counseil of aungeles.                               13110
   And there was that word fulfilled
   The which thow of speke.
-  _Omnia caelestia terrestria flectantur
+  _Omnia cælestia terrestria flectantur
       in hoc nomine Jhesu._
 
     "For alle the aungeles of hevene
@@ -4870,7 +4836,7 @@ Library of Old Authors.
   Noght holy Crist, but Jhesu,
   {403}
   A faunt fyn ful of wit,
-  _Filius Mariae._
+  _Filius Mariæ._
   For bifore his moder Marie
   Made he that wonder;                                   13190
   That she first and formest
@@ -4899,7 +4865,7 @@ Library of Old Authors.
   And dombe speke he made,
   And alle he heeled and halp
   That hym of grace askede.
-  And tho was he called in contre
+  And tho was he called in contré
   Of the comune peple,
   For the dedes that he dide,
   _Fili David, Jhesus._
@@ -5226,7 +5192,7 @@ Library of Old Authors.
   The cardynal vertues,
   And sew hem in mannes soule,
   And sithen he tolde hir names.
-  _Spiritus prudentiae._
+  _Spiritus prudentiæ._
   The firste seed highte;
   And who so ete that,                                   13510
   Ymagynen he sholde
@@ -5238,7 +5204,7 @@ Library of Old Authors.
   To save the fatte above.
 
     The seconde seed highte
-  _Spiritus temperantiae._
+  _Spiritus temperantiæ._
   He that ete of that seed                               13520
   Hadde swich a kynde,
   Sholde nevere mete ne muchel drynke
@@ -5274,7 +5240,7 @@ Library of Old Authors.
   _Esto forti animo, cum sis dampnatus inique._              =
 
     The ferthe seed that Piers sew                       13552
-  Was _spiritus justitiae_.
+  Was _spiritus justitiæ_.
   And he that ete of that seed,
   Sholde be evere trewe,
   With God, and naught a-gast,
@@ -5283,9 +5249,9 @@ Library of Old Authors.
   That good feith outher while
   {414}
   Maye nought ben espied,                                13560
-  For _spiritus justitiae_.
+  For _spiritus justitiæ_.
 
-    _Spiritus justitiae._
+    _Spiritus justitiæ._
   Spareth noght to spille
   Hem that ben gilty,
   And for to correcte
@@ -5299,7 +5265,7 @@ Library of Old Authors.
   That he ne dide lawe,
   For present or for preiere,
   Or any prynces lettres;
-  He dide equite to alle
+  He dide equité to alle
   Evene forth his power.
 
     Thise foure sedes Piers sew;
@@ -5451,11 +5417,11 @@ Library of Old Authors.
   That kynde wit hadde,
   Save sherewes one
   Swiche as I spak of,
-  That he ne halp a quantite                             13710
+  That he ne halp a quantité                             13710
   Holynesse to wexe,
   Some thorugh bedes biddynge,
   And some thorugh pilgrymages
-  And othere pryve penaunces,
+  And othere pryvé penaunces,
   And somme thorugh penyes delynge.
 
     And thanne wellede water
@@ -5505,7 +5471,7 @@ Library of Old Authors.
     "Ye, baw!" quod a brewere,
   "I wol noght be ruled,
   By Jhesu! for al youre janglynge
-  With _spiritus justitiae_,
+  With _spiritus justitiæ_,
   Ne after Conscience, by Crist!
   While I kan selle                                      13760
   Bothe dregges and draf,
@@ -5515,7 +5481,7 @@ Library of Old Authors.
   For that is my kynde,
   And noght hakke after holynesse.
   Hold thi tonge, Conscience!
-  Of _spiritus justitiae_,
+  Of _spiritus justitiæ_,
   Thow spekest muche on ydel."
 
     "Caytif!" quod Conscience,
@@ -5523,7 +5489,7 @@ Library of Old Authors.
   Un-blessed artow, brewere,
   But if thee God helpe.
   But thow lyve by loore
-  Of _spiritus justitiae_,
+  Of _spiritus justitiæ_,
   The chief seed that Piers sew,
   Y-saved worstow nevere.
   But Conscience the comune fede,
@@ -5631,7 +5597,7 @@ Library of Old Authors.
   Som what to wynnyng,
   Of gile ne of gabbyng                                  13870
   Gyve thei nevere tale.
-  For _spiritus prudentiae_
+  For _spiritus prudentiæ_
   Among the peple is gyle;
   And alle tho faire vertues
   As vices thei semeth.
@@ -5672,7 +5638,7 @@ Library of Old Authors.
   And chieftayn of the comune;
   And what I take of yow two,
   I take it at the techynge
-  Of _spiritus justitiae_,                               13910
+  Of _spiritus justitiæ_,                                13910
   For I jugge yow alle.
   So I may boldely be housled,
   For I borwe nevere,
@@ -5686,7 +5652,7 @@ Library of Old Authors.
   Take thow mayst in reson                               13920
   As thi lawe asketh.
   _Omnia tua sunt ad defendendum,
-      sed non ad depraedandum._"
+      sed non ad deprædandum._"
   The viker hadde fer hoom,
   And faire took his leeve;
   And I awakned therwith,
@@ -5713,7 +5679,7 @@ Library of Old Authors.
   That thow toke to thy bilyve,                          13940
   To clothes and to sustenaunce;
   And by techynge and by tellynge
-  Of _spiritus temperantiae_,
+  Of _spiritus temperantiæ_,
   And thow nome na-moore
   Than nede thee taughte,
   And nede he hath no lawe,
@@ -5745,11 +5711,11 @@ Library of Old Authors.
   Withouten counseil of Conscience
   Or cardynale vertues,
   So that he sewe and save                               13970
-  _Spiritus temperantiae_.
+  _Spiritus temperantiæ_.
 
     "For is no vertue bi fer
-  To _spiritus temperantiae_;
-  Ne _spiritus justitiae_
+  To _spiritus temperantiæ_;
+  Ne _spiritus justitiæ_
   Ne _spiritus fortitudinis_.
   For _spiritus fortitudinis_
   Forfeteth ful ofte.
@@ -5761,11 +5727,11 @@ Library of Old Authors.
   Than good feith it wolde
   {427}
 
-    "And _spiritus justitiae_
+    "And _spiritus justitiæ_
   Shal juggen, wol he nele he,
   After the kynges counseil,
   And the comune like.
-  And _spiritus prudentiae_
+  And _spiritus prudentiæ_
   In many a point shal faille
   Of that he weneth wolde falle,                         13990
   If his wit ne weere.
@@ -5858,7 +5824,7 @@ Library of Old Authors.
 
     "I conseille," quod Conscience tho,
   "Cometh with me, ye fooles,
-  Into Unite holy chirche,
+  Into Unité holy chirche,
   And holde we us there;
   And crye we to kynde
   That he come and defende us,
@@ -5896,7 +5862,7 @@ Library of Old Authors.
   Tho aloud cryde
   After Confort, a knyght,
   To come and bere his baner;
-  "_A l'arme! a l'arme!_" quod that lord,
+  "_A l'arme! à l'arme!_" quod that lord,
   "Ech lif kepe his owene!"
 
     And thanne mette thise men,                          14110
@@ -6234,7 +6200,7 @@ Library of Old Authors.
   Than he that laboureth for liflode,
   And leneth it beggeris.
   And sithen freres forsoke
-  The felicite of erthe,
+  The felicité of erthe,
   Lat hem be as beggeris,
   Or lyve by aungeles foode."
 
@@ -6800,7 +6766,7 @@ PIERS PLOUGHMAN'S CREED.
   We Minorities most sheweth
   The pure aposteles liif,
   With penance on erthe,
-  And suen hem in sanctite,
+  And suen hem in sanctité,
   And sufferen wel harde.                                  210
   We haunten no tavernes,
   Ne hobelen abouten;
@@ -6843,7 +6809,7 @@ PIERS PLOUGHMAN'S CREED.
   Wel neigh in the myddel,
   And saint Fraunceis hymselfe
   Shal folden the in his cope,                             250
-  And present the to the Trinite,
+  And present the to the Trinité,
   And praye for thy synnes.
   Thy name shal noblich ben wryten
   And wrought for the nones,
@@ -6893,7 +6859,7 @@ PIERS PLOUGHMAN'S CREED.
   'Nought thy neighbors good
   Coveyte in no tyme.'
   {460}
-  But charite and chastite
+  But charité and chastité
   Ben chased out clene.
   But Christ seide by her fruit
   Men shal hem ful knowen."                                300
@@ -6924,7 +6890,7 @@ PIERS PLOUGHMAN'S CREED.
   And even forth wente;
   And al was walled that wone,
   Though it wiid were,
-  With posternes in privite
+  With posternes in privité
   To pasen when hem liste;
   Orcheyardes and erberes
   Evesed wel clene,                                        330
@@ -7116,7 +7082,7 @@ PIERS PLOUGHMAN'S CREED.
   That suffreden harde;
   And we ben proved the priis
   Of popes at Rome,                                        510
-  And of grettest degre,
+  And of grettest degré,
   As godspelles telleth."
 
     "A! syre," quath I thanne,
@@ -7180,7 +7146,7 @@ PIERS PLOUGHMAN'S CREED.
   {468}
   And prechen al of perfitnesse;
   But loke now, I the prey,                                570
-  Nought but profre hem in privite
+  Nought but profre hem in privité
   A peny for a masse,
   And, but his name be prest,
   Put out myn eighe,
@@ -7233,11 +7199,11 @@ PIERS PLOUGHMAN'S CREED.
   Weren founden in tounes,                                 620
   And taughten untrewely,
   And that we wel aspiede.
-  And for chef charyte,
+  And for chef charyté,
   We chargeden us selven
   In amendyng of this men,
   We maden oure celles
-  To ben in cytes y-set,
+  To ben in cytés y-set,
   To styghtle the puple,
   Prechyng and prayeng
   As profetes shoulden.                                    630
@@ -7326,7 +7292,7 @@ PIERS PLOUGHMAN'S CREED.
   That droppeth fro heven,
   With hartes of heynesse,
   Whough halwen the cherches,                              710
-  And deleth in devynyte
+  And deleth in devynyté
   As dogges doth bones.
   Thei medeleth with mesages
   And mariages of grete;
@@ -7348,7 +7314,7 @@ PIERS PLOUGHMAN'S CREED.
   In lyvynge of hevene,                                    730
   And glose hem nought for her good
   To greven her soules.
-  I pray the, where ben they pryve
+  I pray the, where ben they pryvé
   With any pore whightes
   That may nought amenden her hous,
   Ne amenden hemselven?
@@ -7359,7 +7325,7 @@ PIERS PLOUGHMAN'S CREED.
   Wilneth in erthe.                                        740
   Leeve it wel, lef man,
   And men right lokede,
-  There is more pryve pryde
+  There is more pryvé pryde
   In Prechoures hertes,
   Than there lefte in Lucifere,
   Or he were lowe fallen.
@@ -7797,11 +7763,11 @@ PIERS PLOUGHMAN'S CREED.
   Other Austyn ordeynde,
   And of this dotardes
   Doctur to worthe,
-  Maysters of divinite
+  Maysters of divinité
   Her matynes to leve,
   And cherlich as a cheveteyn
   Hys chaumbre to holden,                                 1160
-  With chymene, and chaple,
+  With chymené, and chaple,
   And chosen whan hem lyste,
   And served as a sovereyn,
   And as a lord sytten.
@@ -7971,7 +7937,7 @@ PIERS PLOUGHMAN'S CREED.
   To blenden the puple.
   They wolden awyrien that wight
   For his wel dedes,                                      1320
-  And so they chewen charite,
+  And so they chewen charité,
   As chewen shaf houndes.
   And thei pursueth the povere,
   And passeth pursutes,
@@ -8016,7 +7982,7 @@ PIERS PLOUGHMAN'S CREED.
   Hath fulliche encombred                                 1360
   Manye of this maner men,
   And maad hem to leven
-  Her charite and chastete,
+  Her charité and chasteté,
   And shosen hem to lustes,
   And waxen to werly,
   And wayven the trewethe,
@@ -8308,19 +8274,19 @@ PIERS PLOUGHMAN'S CREED.
 
     "Although this flatterynge freres
   Wyln, for her pryde,                                    1640
-  Disputen of Godes deyte,
+  Disputen of Godes deyté,
   As dotardes shulden,
   The more the matere is moved
   The masedere hi worthen.
   Lat the loseles alone,
   And leve thou the trewthe;
-  For these maystres of dyvynite
+  For these maystres of dyvynité
   Many, als I trowe,
   Folwen nought fully the feith,
   As fele of the lewede.                                  1650
   Whough may mannes wiit,
   Through werk of himselve,
-  Knowen Christes privite,
+  Knowen Christes privité,
   {500}
   That alle kynde passeth?
   It mot ben a man
@@ -8377,7 +8343,7 @@ NOTES AND GLOSSARY
 
 NOTES.
 
-Line 1. Bale, quoting the first two lines, translates them _In aestivo
+Line 1. Bale, quoting the first two lines, translates them _In æstivo
 tempore, cum sol caleret_. The printers of the early editions altered
 _softe_ to _set_.
 
@@ -8421,8 +8387,8 @@ are condemned as getting their living by what is afterwards called
 
 88. _Roberdes knaves._ These are the same class of malefactors who are
 named _Roberdesmen_ in the Statutes, 5 Ed. III. c. 14. "Et diverses
-roberies, homicides, et felonies ont este faitz eintz ces heures par gentz
-qui sont appellez Roberdesmen, Wastours, et Draghelatche, si est acorde et
+roberies, homicides, et felonies ont esté faitz eintz ces heures par gentz
+qui sont appellez Roberdesmen, Wastours, et Draghelatche, si est acordé et
 establi que si homme eit suspecion de mal de nuls tielx, soit-il de jour
 soit-il de nuyt, que meintenant soient arestus par les conestables des
 villes." This law was confirmed by 7 Ric. II. c. 5, where the word is again
@@ -8431,21 +8397,21 @@ be Robin Hood's men. The other Trin. Coll. MS. reads _Robertis knaves_.
 
 93. _Seint Jame._ St. James of Compostello was a famous resort of pilgrims
 in the fourteenth and fifteenth centuries. An amusing song on the
-inconveniences which attended the voyage is printed in the Reliquiae
-Antiquae, vol. i, p. 2.
+inconveniences which attended the voyage is printed in the Reliquiæ
+Antiquæ, vol. i, p. 2.
 
 107. _Walsyngham._ The shrine of the Virgin Mary at Walsingham in Norfolk,
 also enjoyed an extraordinary celebrity, as a resort of English pilgrims.
 It appears that the first complaints of the Wicliffite reformers were
 strongly expressed against this pilgrimage. "Lolardi sequaces Johannis
-Wiclif ... praedicaverunt peregrinationes non debere fieri, et praecipue
-apud Walsingham," etc. Th. Walsingh. p. 340.
+Wiclif ... prædicaverunt peregrinationes non debere fieri, et præcipue apud
+Walsingham," etc. Th. Walsingh. p. 340.
 
 116. The four orders of friars were, of course, the Franciscans,
 Augustines, Dominicans, and Carmelites.
 
 131. These four lines stand thus in Whitaker's text, _Bote holy churche and
-charite | choppe a-doun swich shryvers, | the moste myschif of molde |
+charité | choppe a-doun swich shryvers, | the moste myschif of molde |
 mounteth up faste._ Whitaker has translated it quite wrong, "May true
 charity and church discipline knock down these, the greatest pests on
 earth, who are rapidly increasing!" The simple meaning of the passage, as
@@ -8545,15 +8511,15 @@ Marie. It is however found in the old collection, in French verse of the
 fourteenth century, entitled Ysopet; and M. Robert has also printed a Latin
 metrical version of the story from a MS. of the same century. La Fontaine
 has given it among his fables. It may be observed that the fable is nowhere
-so well told as in Piers Ploughman. (See Robert, Fables Inedites, des
-xii^e, xiii^e, et xiv^e siecles, i, pp. 98-101.) The readers of Scottish
+so well told as in Piers Ploughman. (See Robert, Fables Inédites, des
+xii^e, xiii^e, et xiv^e siècles, i, pp. 98-101.) The readers of Scottish
 history will remember the application of this fable in 1481, by the earl of
 Angus (popularly named, from this circumstance, Archibald Bell-the-cat), in
 the conspiracy against the royal favourites, which forms an excellent
 illustration of our text.
 
-381. _Vae terrae, etc._ Ecclesiastes, x, 16. "Vae tibi, terra, cujus rex
-puer est, et cujus principes mane comedunt."
+381. _Væ terræ, etc._ Ecclesiastes, x, 16. "Væ tibi, terra, cujus rex puer
+est, et cujus principes mane comedunt."
 
 423. _and pointeth the lawe._ MS. Trin. 2.
 
@@ -8565,13 +8531,13 @@ Coll.
   Become clerkis of acountis
   The king for to serve,
   Archideknes and denis,
-  That dignites haven,
+  That dignités haven,
   To preche the peple
   And pore men to fede,
   Ben y-lope to Lundone
   Be leve of hire bisshop,
   And ben clerkis of the kinges bench
-  The cuntre to shende.
+  The cuntré to shende.
 
 438. _Taillours, tanneris, | And tokkeris bothe._ MS. Trin. 2.
 
@@ -8605,14 +8571,14 @@ The 'wyn of the Rochel' (vin de la Rochelle) was also a favourite wine.--
   Rochelle, qui tant a de pris,
   Que l'en la va de partout querre;
   Chascun si l'enclot et l'enserre,
-  Car il n'est pas a garconner,
+  Car il n'est pas à garçonner,
   N'en ne la doit q'aus bons donner;--
   Por les grans seignors l'en salache.
                               (_ib._ p. 300).
 
 The "wyn of Oseye" (vin d'Osaie) was a foreign wine, very rare and dear,
 and sought up by 'gourmands:' it is mentioned with those of Malvoisia,
-Rosetta, and Muscadet. (Depping Reglemens sur les Arts et Metiers de Paris,
+Rosetta, and Muscadet. (Depping Réglemens sur les Arts et Métiers de Paris,
 p. lxiii.) It is unnecessary to explain what was 'wyn of the Ryn' (Rhine).
 
 456. _of the Reule | and of the Rochel._ Whitaker.
@@ -8664,10 +8630,9 @@ by Shakespeare himself, Ben Jonson, and others.
 
 681. _Lucifer with legions._ The story of Lucifer's rebellion and fall was
 extremely popular in the middle ages, and particularly among the
-Anglo-Saxons, who, in the fine poem ascribed to Caedmon, had given it
-almost as much detail as Milton had done at a later date. This legend is
-related in prose in an Anglo-Saxon tract in MS. Cotton. Vespas. D. xiv,
-fol. 2.
+Anglo-Saxons, who, in the fine poem ascribed to Cædmon, had given it almost
+as much detail as Milton had done at a later date. This legend is related
+in prose in an Anglo-Saxon tract in MS. Cotton. Vespas. D. xiv, fol. 2.
 
 682. The second Trin. Col. MS. has, _Leride it in hevene, | and as the
 lovelokest | to loke on, aftir oure Lord_.
@@ -8719,7 +8684,7 @@ supposing that some of the angels who fell with Lucifer were less guilty
 than others, and were allowed to occupy the different elements on the earth
 instead of being condemned to "the pit." In "The Master of Oxford's
 Catechism," written early in the fifteenth century, and printed in the
-Reliquiae Antiquae, vol. i, p. 231, we have the following question and
+Reliquiæ Antiquæ, vol. i, p. 231, we have the following question and
 answer,--"_C._ Where be the anjelles that God put out of heven, and bycam
 devilles? _M._ Som into hell, and som reyned in the skye, and som in the
 erth, and som in waters and in wodys."
@@ -8778,7 +8743,7 @@ second Trin. Coll. MS.:--
   Proud for the nones,
   And ten thousand of tentis
   Teldit beside,
-  Of knightes of cuntres,
+  Of knightes of cuntrés,
   Of comeres aboute,
   For sisours, for somonours, etc.
 
@@ -8818,7 +8783,7 @@ subject of popular complaint.
   As for the grete treuthe.
 
     Meny sondry sorwes
-  In cyte fallen ofte,
+  In cyté fallen ofte,
   Bothe thorw fyur and flod,
   And al for false puple,
   That bygylen good men,
@@ -8862,7 +8827,7 @@ subject of popular complaint.
   Er he were underfonge free
   And felawe in youre rolles.
   Hit ys nought semly, for soth,
-  In cyte ne in borw-ton,
+  In cyté ne in borw-ton,
   That usurers other regratours
   For eny kynne geftes,
   Be fraunchised for a free-man,
@@ -8942,7 +8907,7 @@ oppressions to which the peasantry were frequently subjected by the king's
 purveyors, and by others in power. See the Political Songs, pp. 377, 378;
 and Hartshorne's Ancient Metrical Tales, pp. 41, 42.
 
-2197. _taille_, a tally. See the Political Songs, as above quoted. Whitaker
+2197. _taillé_, a tally. See the Political Songs, as above quoted. Whitaker
 translates this passage, which stands thus in his edition,
 
   And taketh me bote a taile
@@ -8980,7 +8945,7 @@ satire against the mendicant friars:--
   And lovede wel fare,
   And no dede to do
   Bote drynke and to slepe,
-  In hele and in unite,
+  In hele and in unité,
   On me aposede,
   Romynge in remembraunce.
   Thus Reson me arated:
@@ -9085,7 +9050,7 @@ satire against the mendicant friars:--
   And alle that ben crounede
   And in queer in churches,
   Cristes owene mynestres.
-  _Dominus pars haereditatis meae
+  _Dominus pars hæreditatis meæ
     Et alibi, Clementia non constringit._
   Hit bycometh for clerkus
   Crist for to serven;
@@ -9165,7 +9130,7 @@ satire against the mendicant friars:--
   Thorw wyrdes of his grace.
   _Simile est regnum coelorum thesauro
       abscondito in agro, etc._
-    _Mulier quae inveniet dragmam, etc._
+    _Mulier quæ inveniet dragmam, etc._
   So hope ich to have of hym
   That his almyghty
   A gobet of hus grace,
@@ -9227,13 +9192,13 @@ Preface to Chaucer, first pointed out the identity of this wind with the
 one mentioned by the old chroniclers (Thorn, Decem. Script. col. 2122;
 Walsingham, p. 178; the continuator of Adam Murimuth, p. 115), as occurring
 on the evening of Jan. 15, 1362. The fifteenth of January in that year was
-a Saturday. The following is the account given by Walsingham: "Anno gratiae
+a Saturday. The following is the account given by Walsingham: "Anno gratiæ
 millesimo trecentesimo sexagesimo secundo, qui est annus regni regis
 Edwardi a conquestu tertii tricesimus sextus, tenuit rex natale apud
 Wyndesor, et quinto decimo die sequente ventus vehemens, nothus auster
-affricus, tanta vi erupit, quod flatu suo domos altas, aedificia sublimia,
-turres, et campanilia, arbores, et alia quaeque durabilia et fortia
-violenter prostravit pariter et impegit, in tantum quod residua quae modo
+affricus, tanta vi erupit, quod flatu suo domos altas, ædificia sublimia,
+turres, et campanilia, arbores, et alia quæque durabilia et fortia
+violenter prostravit pariter et impegit, in tantum quod residua quæ modo
 extant, sunt hactenus infirmiora." The continuator of Murimuth is more
 particular as to the time of the day, and in other respects more exact.
 "A.D. m. ccc. lxii, xv die Januarii, _circa horam vesperarum_, ventus
@@ -9242,7 +9207,7 @@ vehemens notus australis affricus tanta rabie erupit," etc.
 2529. _And fecche Felis his wyf | Fro wyuene pyne._ MS. Trin. Col. 2.
 
 2547. This was a very old and very common proverb in England. Thus in the
-Proverbs of Hending (Reliquiae Antiquae, vol. i, p. 110):--
+Proverbs of Hending (Reliquiæ Antiquæ, vol. i, p. 110):--
 
   Ne bue thi child never so duere,
   Ant hit wolle unthewes lerne,
@@ -9255,7 +9220,7 @@ Proverbs of Hending (Reliquiae Antiquae, vol. i, p. 110):--
 
 The proverb is a little varied in another copy of these "Proverbs," p. 194
 of the same work. There is a German proverb closely resembling it, "Je
-lieberes Kind, je schaerfere Ruthe."
+lieberes Kind, je schärfere Ruthe."
 
 2551. Prov. xiii, 24.
 
@@ -9279,7 +9244,7 @@ text, ll. 6218-6274.
   Leyved that hymselve
   Were wittyour and worthiour
   Than he that was hus maister.
-  Hold yow in unite.
+  Hold yow in unité.
   And ye that hother wolde
   Is cause of alle combraunce
   To confounde a reame.
@@ -9397,7 +9362,7 @@ differs much from our text.
 2819-2822. The discipline here described seems to have been peculiar to the
 chapter-house of the monasteries. Matth. Paris, p. 848, has an anecdote
 which illustrates curiously this passage of Piers Ploughman. In speaking of
-the turbulent Falcasius de Breute, who had been warned in a vision to offer
+the turbulent Falcasius de Breuté, who had been warned in a vision to offer
 himself to suffer penance in the monastery of St. Albans, in the reign of
 Henry III, he says, "Vestibus igitur spoliatus cum suis militibus,
 similiter indumentis spoliatis, ferens in manu virgam quam vulgariter
@@ -9413,7 +9378,7 @@ text.)
   And to oure Ladi criede,
   'Ladi, for thi leve sone,
   Loute for me nouthe,
-  That he have pite on me, putour,
+  That he have pité on me, putour,
   For his pure merci.'
   'With that I schal,' quod that schrewe,
   'Saterdaies, for thi love,
@@ -9459,7 +9424,7 @@ text.)
   And hadde i-lorn that kynde,
   I hadde likyng to lige
   Of lecherous tales.
-  Now, lord, for thi lewte,
+  Now, lord, for thi lewté,
   On lecheres have merci.
 
 2850. _Sire Hervy._ Whitaker and Price (in Warton) suppose that there is
@@ -9611,7 +9576,7 @@ extorquet, et minatur.-- Vir quicunque rabidus consors est Roberto.
 
 Still earlier (12th cent.) a scribe says of one of his brothers, "Secundus
 dicebatur _Robertus_, quia a re nomen habuit, _spoliator_ enim diu fuit et
-_praedo_." (Polit. Songs, p. 354.)
+_prædo_." (Polit. Songs, p. 354.)
 
 3419. _Dysmas._ In middle-age legends, Dismas and Gestas were the names of
 the two thieves who were crucified with Christ. The former was the one who
@@ -9649,14 +9614,14 @@ believed in the Saviour, and received a promise of paradise.
   Flaterers and lyers,
   And han lykynge to lythen hem,
   In hope to do yow lawe--
-  _Vae! vobis qui ridetis, etc._
+  _Væ! vobis qui ridetis, etc._
   And geveth suche mede an mete,
   And povre men refusen;
   In youre deth deynge,
   Ich drede me sore
   Lest tho maner men
   To moche sorwe yow brynge.
-  _Consensientes et agentes pari paena punientur._
+  _Consensientes et agentes pari pæna punientur._
   Patriarkes and prophetes,
   Prechours of Godes wordes,
   Saven thorgh here sermons
@@ -9669,7 +9634,7 @@ believed in the Saviour, and received a promise of paradise.
   Sholde kennen lordes
   What David seide of suche men,
   As the Sauter telleth:
-  _Non habitabit in medio domus meae qui
+  _Non habitabit in medio domus meæ qui
       facit superbiam, qui loquitur
       iniquum._
   Sholde non harlot have audience
@@ -9725,7 +9690,7 @@ believed in the Saviour, and received a promise of paradise.
   Other purgatorye as wykke,
   For he litheth and loveth
   That Godes lawe despiteth.
-  _Qui histrionibus dat, daemonibus sacrificat._
+  _Qui histrionibus dat, dæmonibus sacrificat._
 
 3466. _qui manet, &c._ Epist. Joan. iv, 16.
 
@@ -9760,7 +9725,7 @@ its glory, is given by Erasmus, Colloq. _Peregrinatio Religionis ergo._
 3713. _eten apples un-rosted._ One of the many specimens of the burlesque
 manner in which scripture was frequently quoted in these times. A very
 singular passage (but in a tract professedly burlesque) occurs in the
-Reliquiae Antiquae, vol. i, p. 83:--"Peter askud Adam a full greyt dowtfull
+Reliquiæ Antiquæ, vol. i, p. 83:--"Peter askud Adam a full greyt dowtfull
 question, and seyd, 'Adam, Adam, why ete thu the appull unpard?' 'For
 sothe,' quod he, 'for y had no wardyns fryde.'"
 
@@ -9775,13 +9740,13 @@ Chestre._ There was a famous cross at Lucca, but whether a part of the real
 cross, I have not ascertained. Calvin, in his most able and entertaining
 _Admonitio de Reliquiis_, declines undertaking a list of all the places
 where pieces of the real cross were shown. "Denique si congesta in acervum
-essent omnia quae reperiri possent, integrum navis onus efficerent: cum
-tamen evangelium testificetur ab unico homine ferri potuisse. Quantae
-igitur audaciae fuit, ligneis frustis sic totum implere orbem, quibus
-ferendis ne trecenti quidem homines sufficiant?" _Calvini_, _Opusc._ p.
-277. There was also at Lucca one of the impressions of our Saviour's face
-on the handkerchief of Veronica. The peculiar oath of William Rufus was by
-the holy face at Lucca.
+essent omnia quæ reperiri possent, integrum navis onus efficerent: cum
+tamen evangelium testificetur ab unico homine ferri potuisse. Quantæ igitur
+audaciæ fuit, ligneis frustis sic totum implere orbem, quibus ferendis ne
+trecenti quidem homines sufficiant?" _Calvini_, _Opusc._ p. 277. There was
+also at Lucca one of the impressions of our Saviour's face on the
+handkerchief of Veronica. The peculiar oath of William Rufus was by the
+holy face at Lucca.
 
 4027. _with hey trolly lolly._ MS. Trin. Col. 2.
 
@@ -10071,7 +10036,7 @@ substituted in the text adopted by Mr. Whitaker:--
   And hus murye burdiers,
   The wiche are lunatik lollares
   And leperes aboute.
-  For under Godes secre seel
+  For under Godes secré seel
   Here synnes ben y-keverede.
   For thei bereth no bagges,
   Ne non botels under clokes,
@@ -10125,7 +10090,7 @@ substituted in the text adopted by Mr. Whitaker:--
 4645. Luke xix, 23.
 
 4659. Ps. xxxvi, 25. Junior fui, etenim senui: et non vidi justum
-derelictum, nec semen ejus quaerens panem.
+derelictum, nec semen ejus quærens panem.
 
 4695. Here again, after many verbal variations from our text, Whitaker's
 text adds the following long passage, which is very curious, and well
@@ -10225,7 +10190,7 @@ the whole poem."
   Vigiles and fastyng dayes
   Forthere to knowe,
   And fulfille tho fastynges
-  Bote infirmite hit made,
+  Bote infirmité hit made,
   Poverte othere penaunces,
   As pilgrymages and travayles.
   Under this obedience
@@ -10268,7 +10233,7 @@ the whole poem."
   Thorw the weke longe,
   Nother blankett in hus bed,
   Ne white bred byfore hym.
-  The cause of al thys caitifte
+  The cause of al thys caitifté
   Cometh of meny bisshepes,
   That suffren suche sottes
   And othere synnes regne.
@@ -10304,7 +10269,7 @@ the whole poem."
   Hus meable to save,
   And the woolle worth weye,
   Woo ys the thenne!
-  _Redde rationem villicationis tuae_,
+  _Redde rationem villicationis tuæ_,
   Other arerage, ffalle.
   Then hyre hurde, as ich hope,
   Hath nouht to quyty thy dette,
@@ -10321,8 +10286,8 @@ the whole poem."
   For shal no pardone praye for yowe ther,
   Nother princes letteres.
 
-4708. Matth. xxv, 46. Et ibunt hi in supplicium aeternum; justi autem in
-vitam aeternam.
+4708. Matth. xxv, 46. Et ibunt hi in supplicium æternum; justi autem in
+vitam æternam.
 
 4721. Psal. xxii, 4.
 
@@ -10334,7 +10299,7 @@ vitam aeternam.
 Psalms xiii. and lii.
 
 4769. Prov. xxii, 10. Ejice derisorem, et exibit cum eo jurgium,
-cessabuntque causae et contumeliae.
+cessabuntque causæ et contumeliæ.
 
 4771. _Perkyn_, the diminutive of Peter, or Piers. Formerly the diminutives
 of people's names were constantly used as marks of familiarity or
@@ -10368,8 +10333,8 @@ identity between this expression and the one so common in Homer: it is "one
 of those primitive figures which are common to the poetry of every
 country."
 
-  [Greek: Outis, emeu zontos kai epi chthoni derkomenoio,]
-  [Greek: Soi koileis para neusi bareias cheiras epoisei.]
+  [Greek: Outis, emeu zôntos kai epi chthoni derkomenoio,]
+  [Greek: Soi koilêis para nêusi bareias cheiras epoisei.]
                                            Il. i, 88.
 
 Whitaker's interpretation is nonsense, "If I have space to live and look in
@@ -10421,7 +10386,7 @@ man's nature was supposed to consist:--
   His life was gentle; and the _elements_
   So mix'd in him, that Nature might stand up
   And say to all the world, This _was a man_.
-                        _Jul. Caes._ v, 5.
+                        _Jul. Cæs._ v, 5.
 
 On the other hand, the ill mixing of these elements was supposed to be
 accompanied with a corresponding derangement of the intellectual faculties.
@@ -10436,45 +10401,43 @@ addressed:--
 The more mythic form of this legend gives _eight things_ to the formation
 of the body, instead of four. Our earliest notice of this legend in England
 occurs in the prose Anglo-Saxon Dialogue between Saturn and Solomon
-(Thorpe's Analecta, p. 95):--"Saga me thaet andworc the Adam waes
-of-ge-worht se aerusta man? Ic the secge of viii punda ge-wihte. Saga me
-hwaet hatton thage? Ic the secge thaet aeroste waes foldan pund, of dham
-him waes flesc ge-worht; odher waes fyres pund, thanon him waes thaet blod
-read and hat; thridde waes windes pund, thanon him waes seo aedhung
-ge-seald; feordhe waes wolcnes pund, thanon him waes his modes
-unstadhelfaestnes ge-seald; fifte waes gyfe pund, thanon him waes ge-seald
-se fat and gedhang; syxste waes blostnena pund, thanon him waes eagena
-myssenlicnys ge-seald; seofodhe waes deawes pund, thanon him becom swat;
-eahtothe waes sealtes pund, thanon him waeron tha tearas sealte."--_Tell me
-the matter of which Adam the first man was made? I tell thee, of eight
-pound-weights. Tell me their names? I tell thee, the first was a pound of
-earth, of which his flesh was made; the second was a pound of fire, from
-which his blood was red and hot; the third was a pound of wind, of which
-breath was given him; the fourth was a pound of cloud, whereof was given
-him his instability of mood; the fifth was a pound of ..., whereof was
-given him fat and sinew; the sixth was a pound of flowers, whereof was
-given him diversity of eyes; the seventh was a pound of dew, whereof he had
-sweat; the eighth was a pound of salt, whereof he had salt tears._ This
-legend was still prevalent in England as late as the fifteenth century,
-when we find it among the curious collection of questions (closely
+(Thorpe's Analecta, p. 95):--"Saga me þæt andworc þe Adám wæs of-ge-worht
+se ærusta man? Ic þe secge of viii punda ge-wihte. Saga me hwæt hatton
+þage? Ic þe secge þæt æroste wæs fóldan pund, of ðam him wæs flesc
+ge-worht; oðer wæs fyres pund, þanon him wæs þæt blód reád and hát; þridde
+wæs windes pund, þanon him wæs seo æðung ge-seald; feorðe wæs wolcnes pund,
+þanon him wæs his módes unstaðelfæstnes ge-seald; fifte wæs gyfe pund,
+þanon him wæs ge-seald se fat and geðang; syxste wæs blostnena pund, þanon
+him wæs eagena myssenlicnys ge-seald; seofoðe wæs deawes pund, þanon him
+becom swat; eahtothe wæs sealtes pund, þanon him wæron þa tearas
+sealte."--_Tell me the matter of which Adam the first man was made? I tell
+thee, of eight pound-weights. Tell me their names? I tell thee, the first
+was a pound of earth, of which his flesh was made; the second was a pound
+of fire, from which his blood was red and hot; the third was a pound of
+wind, of which breath was given him; the fourth was a pound of cloud,
+whereof was given him his instability of mood; the fifth was a pound of
+..., whereof was given him fat and sinew; the sixth was a pound of flowers,
+whereof was given him diversity of eyes; the seventh was a pound of dew,
+whereof he had sweat; the eighth was a pound of salt, whereof he had salt
+tears._ This legend was still prevalent in England as late as the fifteenth
+century, when we find it among the curious collection of questions (closely
 resembling those of Saturn and Solomon just quoted) entitled "Questions
-bitwene the Maister of Oxinford and his Scoler" (Reliquiae Antiquae, vol.
-i, p. 230),--"_C._ Whereof was Adam made? _M._ Of viij. thingis: the first
-of erthe, the second of fire, the iij^{de} of wynde, the iiij^{th} of
-clowdys, the v^{th} of aire wherethorough he speketh and thinketh, the
-vj^{th} of dewe wherby he sweteth, the vij^{th} of flowres, wherof Adam
-hath his ien, the viij^{th} is salte wherof Adam hath salt teres." A
-similar account is given in an extract from an old Friesic manuscript
-communicated to the Zeitschrift fuer Deutsches Alterthum, by Dr. James
-Grimm,--"God scop thene eresta meneska, thet was Adam, fon achta wendem;
-that benete fon tha stene, thet flask fon there erthe, thet blod fon tha
-wetere, tha herta fon tha winde, thene togta (l. thochta) fon tha wolken,
-the(ne) suet fon tha dawe, tha lokkar fon tha gerse, tha agene fon there
-sunna, and tha blerem on thene helga om."--_God created the first man, who
-was Adam, of eight elements: the bone from the stone, the flesh from the
-earth, the blood from the water, the heart from the wind, the thought from
-the cloud, the sweat from the dew, the hair from the grass, the eyes from
-the sun._
+bitwene the Maister of Oxinford and his Scoler" (Reliquiæ Antiquæ, vol. i,
+p. 230),--"_C._ Whereof was Adam made? _M._ Of viij. thingis: the first of
+erthe, the second of fire, the iij^{de} of wynde, the iiij^{th} of clowdys,
+the v^{th} of aire wherethorough he speketh and thinketh, the vj^{th} of
+dewe wherby he sweteth, the vij^{th} of flowres, wherof Adam hath his ien,
+the viij^{th} is salte wherof Adam hath salt teres." A similar account is
+given in an extract from an old Friesic manuscript communicated to the
+Zeitschrift für Deutsches Alterthum, by Dr. James Grimm,--"God scôp thene
+êresta meneska, thet was Adam, fon achta wendem; that bênete fon tha stêne,
+thet flâsk fon there erthe, thet blôd fon tha wetere, tha herta fon tha
+winde, thene togta (l. thochta) fon tha wolken, the(ne) suêt fon tha dawe,
+tha lokkar fon tha gerse, tha âgene fon there sunna, and tha blêrem on
+thene helga ôm."--_God created the first man, who was Adam, of eight
+elements: the bone from the stone, the flesh from the earth, the blood from
+the water, the heart from the wind, the thought from the cloud, the sweat
+from the dew, the hair from the grass, the eyes from the sun._
 
 5169. _a proud prikere of Fraunce._ A proud rider of France. Until the
 fifteenth century there appears to have been a strong prejudice among the
@@ -10549,7 +10512,7 @@ condemned for their breach of obedience.
   That lycame han ayen the lawe
   That oure Lord ordeynede.
 
-5433. Gen. vi, 7. paenitet enim me fecisse eos.
+5433. Gen. vi, 7. pænitet enim me fecisse eos.
 
 5464. Ezech. xviii, 20.
 
@@ -10571,19 +10534,18 @@ Nangis, who gives a detailed account of the effects of the great pestilence
 on the Continent, mentions the hasty marriages which followed it, but he
 gives quite a different account of their fruitfulness. "Cessante autem
 dicta epidimia, pestilentia, et mortalitate, nupserunt viri qui remanserunt
-et mulieres ad invicem, conceperunt uxores residuae per mundum ultra modum,
-nulla sterilis efficiebatur, sed praegnantes hinc inde videbantur, et
-plures geminos pariebant, et aliquae tres infantes insimul vivos
-emittebant." The writer goes on to observe, "Sed proh dolor! ex hujus
-renovatione saeculi non est mundus propter hoc in melius commutatus. Nam
-homines fuerunt postea magis avari et tenaces, cum multo plura bona quam
-antea possiderent; magis etiam cupidi et per lites, brigas, et rixas, atque
-per placita, seipsos conturbantes.... Charitas etiam ab illo tempore
-refrigescere caepit valde, et iniquitas abundavit cum ignorantiis et
-peccatis; nam pauci inveniebantur qui scirent aut vellent in domibus,
-villis, et castris informare pueros in grammaticalibus
-rudimentis."--_Contin. G. de Nangis, in Dacherii Spicileg._ iii, 110 (_ed._
-1723).
+et mulieres ad invicem, conceperunt uxores residuæ per mundum ultra modum,
+nulla sterilis efficiebatur, sed prægnantes hinc inde videbantur, et plures
+geminos pariebant, et aliquæ tres infantes insimul vivos emittebant." The
+writer goes on to observe, "Sed proh dolor! ex hujus renovatione sæculi non
+est mundus propter hoc in melius commutatus. Nam homines fuerunt postea
+magis avari et tenaces, cum multo plura bona quam antea possiderent; magis
+etiam cupidi et per lites, brigas, et rixas, atque per placita, seipsos
+conturbantes.... Charitas etiam ab illo tempore refrigescere cæpit valde,
+et iniquitas abundavit cum ignorantiis et peccatis; nam pauci inveniebantur
+qui scirent aut vellent in domibus, villis, et castris informare pueros in
+grammaticalibus rudimentis."--_Contin. G. de Nangis, in Dacherii Spicileg._
+iii, 110 (_ed._ 1723).
 
 5515. _do hem to Dunmowe._ This is, I believe, the earliest allusion at
 present known to the custom of the flitch of bacon at Dunmow, which was
@@ -10596,7 +10558,7 @@ the way in which she tyrannized over them,--
 
 In a curious religious poem preserved in a manuscript in the Bodleian
 Library at Oxford, written about the year 1460, from which some extracts
-are printed in the "Reliquiae Antiquae," ii, 27-29, we have the following
+are printed in the "Reliquiæ Antiquæ," ii, 27-29, we have the following
 satirical allusion to this custom:--
 
   I can fynde no man now that wille enquere
@@ -10646,7 +10608,7 @@ Chaucer, it is said of the friar:--
 
 5651. Psal. lxxii, 12.
 
-5659. Psal. x, 4. Quoniam quae perfecisti, destruxerunt: justus autem quid
+5659. Psal. x, 4. Quoniam quæ perfecisti, destruxerunt: justus autem quid
 fecit?
 
 5739. Psal. cxxxi, 6.
@@ -10776,7 +10738,7 @@ of English monachism.
 6291. Catonis Distich. iv, 4.
 
   Dilige denari, sed parce dilige, formam;
-  Quem nemo sanctus nec honestus captat ab aere.
+  Quem nemo sanctus nec honestus captat ab ære.
 
 6327. Colos. iii, 1.
 
@@ -10785,7 +10747,7 @@ is rightly printed in Crowley's edition.
 
 6372. John iii, 13.
 
-6414. Matth. xxiii, 2. Super cathedram Moysi sederunt Scribae et Pharisaei.
+6414. Matth. xxiii, 2. Super cathedram Moysi sederunt Scribæ et Pharisæi.
 
 6440. Psal. xxxv, 8.
 
@@ -10793,9 +10755,8 @@ is rightly printed in Crowley's edition.
 
 6504. Matth. x, 18. The quotation is not quite literal.
 
-6528. For _idiotae irapiunt_, read _idiotae vi rapiunt_: the error was
-caused accidentally in the printing, and has escaped in the present
-edition.
+6528. For _idiotæ irapiunt_, read _idiotæ vi rapiunt_: the error was caused
+accidentally in the printing, and has escaped in the present edition.
 
 6571. Matth. xx, 4.
 
@@ -10839,7 +10800,7 @@ sounde, thenne I shall do justyce for the deth of thy sone. Thenne sayd the
 wydowe: Syre, and yf thou deye in the bataylle, who shall thenne avenge hys
 deth for me? And the wydowe sayd, is it not better that thou do to me
 justice, and have the meryte thereof of God, than another have it for thee?
-Then had Trayan pyte, and descended fro his horse, and dyde justyce in
+Then had Trayan pyté, and descended fro his horse, and dyde justyce in
 avengynge the deth of her sone. On a tyme saynt Gregory went by the marked
 of Rome whyche is called the marked of Trayan. And thenne he remembred of
 the justyce and other good dedes of Trayan, and how he had ben pyteous and
@@ -10879,7 +10840,7 @@ words he gives are from Matth. xix, 21.
   Hus suster, and hus brother,
   And al that the worlde wolde,
   And my wil folwen.'
-  _Nisi renunciaveritis omnia quae possidetis,
+  _Nisi renunciaveritis omnia quæ possidetis,
       etc._
   Meny proverbis ich myghte have
   Of meny holy seyntes,
@@ -10946,7 +10907,7 @@ words he gives are from Matth. xix, 21.
   Bytokneth ful triweliche
   In tyme comynge after
   Murthe for hus mornynge,
-  And that muche plente.
+  And that muche plenté.
   For Crist seide to hus seyntes
   That for hus sake tholeden
   Poverte, penaunces,
@@ -11008,7 +10969,7 @@ words he gives are from Matth. xix, 21.
   Worth lygge ar hit repe;
   Right so, for sothe,
   For to sigge treuthe,
-  Over plente pryde norssheth
+  Over plenté pryde norssheth
   Ther poverte destrueth hit.
   For how hit evere be y-wonne,
   Bote hit be wel dispended,
@@ -11061,7 +11022,7 @@ words he gives are from Matth. xix, 21.
   And heeld here hymself,
   And Abraam nat hardy
   Ones to letten hym,
-  Ne for brightnesse of here beaute
+  Ne for brightnesse of here beauté
   Here spouse to be byknowe.
   And for he suffrede and seide nouht,
   Oure Lord sente tokne,
@@ -11232,7 +11193,7 @@ words he gives are from Matth. xix, 21.
   For a myte that he offreth,
   As the riche man for al is moneye,
   And more, as by the Godspel:
-  _Amen dico vobis quia haec vidua paupercula,
+  _Amen dico vobis quia hæc vidua paupercula,
       etc._
   So that povre pacient
   Is parfitest lif of alle,
@@ -11251,7 +11212,7 @@ words he gives are from Matth. xix, 21.
 the service of the church. The following distich points out the classes of
 defaulters in this respect:--
 
-  Ecclesiae tres sunt qui servitium maie fallunt;
+  Ecclesiæ tres sunt qui servitium maie fallunt;
   Momylers, for-scyppers, ovre-lepers, non bene psallunt.
             _Reliq. Antiq._ p. 90. _Poems of Walter Mapes_, p. 148.
 
@@ -11310,7 +11271,7 @@ passage:--
   _Bele vertue est suffraunce,
       Mal dire est petite venjaunce;
       Bien dire e bien suffrer
-      Fait ly suffrable a bien vener._
+      Fait ly suffrable à bien vener._
   For-thi.' quath Reson, 'Ich rede the,
   Rewele thi tonge evere;
   And er thow lacke eny lyf,
@@ -11411,7 +11372,7 @@ obscure French writer_.
   In suche constellacion
   That wit wexeth therof,
   And othere wordes bothe.
-  _Vultus hujus saeculi sunt subjecti vultibus
+  _Vultus hujus sæculi sunt subjecti vultibus
       coelestibus._
   So grace is a gyfte of God,
   And kynde witt a chaunce,
@@ -11445,16 +11406,16 @@ obscure French writer_.
 
 7470. _makynges._ 7483. _make._--There is a curious analogy between the
 Greek and the Teutonic languages in the name given to the poet--the Greek
-[Greek: poietes] (from [Greek: poiein]), the Anglo-Saxon _scop_ (from
+[Greek: poiêtês] (from [Greek: poiein]), the Anglo-Saxon _scóp_ (from
 _sceopan_, to make or create), and the Middle-English _maker_, preserved in
 the later Scottish _makkar_ (also applied to a poet), have all the same
 signification. In the Neo-Latin tongues a different, though somewhat
-analogous, word was used: the French and Anglo-Norman _trouvere_, and the
-Provencal _trobador_, signify a finder or inventor.
+analogous, word was used: the French and Anglo-Norman _trouvère_, and the
+Provençal _trobador_, signify a finder or inventor.
 
 7484. Catonis Distich. iii, 5.
 
-7500. 1 Cor. xiii, 13. Nunc autem manent fides, spes, charitas, tria haec:
+7500. 1 Cor. xiii, 13. Nunc autem manent fides, spes, charitas, tria hæc:
 major autem horum est charitas.
 
 7528, &c. _Aristotle_, _Ypocras_, and _Virgile_.--These three names were
@@ -11519,18 +11480,18 @@ the author of a long French poem (apparently written in England in the
 fourteenth century) entitled _Le Miroir de l'Ome_ (Speculum Hominis), as
 follows:--
 
-  Dieus dist, et c'est tout verite,
-  Qe si l'un voegle soit mene
+  Dieus dist, et c'est tout verité,
+  Qe si l'un voegle soit mené
   D'un autre voegle, tresbucher
-  Falt ambedeux en la fossee.
-  C'est un essample compare
+  Falt ambedeux en la fossée.
+  C'est un essample comparé
   As fols curetz, qui sanz curer
   Ne voient pas le droit sentier,
   Dont font les autres forsvoier,
-  Qui sont apres leur trace ale.
+  Qui sont après leur trace alé.
   Car fol errant ne puet quider,
   Ne cil comment nous puet saner,
-  Qui mesmes est au mort naufre.
+  Qui mesmes est au mort naufré.
       _MS. in the possession of Mr. J. Russell Smith._
 
 The following picture of the corrupt manners of the parish priests at this
@@ -11544,9 +11505,9 @@ poem:--
   Car lors ou il bargaignera
   Du seculiere marchandie,
   Dont sa richesce multeplie;
-  Ou il se donne a leccherie,
+  Ou il se donne à leccherie,
   Du quoy son corps delitera;
-  Ou il se prent a venerie,
+  Ou il se prent à venerie,
   Qant duist chanter sa letanie,
   Au bois le goupil huera.
 
@@ -11565,12 +11526,12 @@ cum angelis suis: et tunc reddet unicuique secundum opera ejus.
 7915. _his flessh is foul flessh._ Yet in spite of the "foulness" of its
 flesh, the peacock was a very celebrated dish at table. For an account of
 the use made of the peacock in feasts, see Le Grand d'Aussy, Histoire de la
-Vie privee des Francais, tom. i, pp. 299-301, and 361. In the Romance of
+Vie privée des Français, tom. i, pp. 299-301, and 361. In the Romance of
 Mahomet, 13th century, it is said of Dives--
 
   Et dou Riche qui _tant poon
   Englouti_ et tant bon poisson,
-  Tante pieche de venison,
+  Tante piéche de venison,
   Et but bon vin par grant delit, &c.
                      _Roman de Mahommet_, l. 301.
 
@@ -11580,7 +11541,7 @@ all, so, from Esop and Avienus from whom the materials were taken, any
 collection of fables was called an _Avionet_ or an _Esopet_. The title of
 one of these collections in a MS. of the Bibl. du Roi at Paris is,
 _Compilacio Ysopi alata cum Avionetto, cum quibusdam addicionibus et
-moralitatibus_. (_Robert, Fabl. Ined. Essay_, p. clxv.) Perhaps the
+moralitatibus_. (_Robert, Fabl. Inéd. Essay_, p. clxv.) Perhaps the
 reference in the present case is to the fable of the Peacock who complained
 of his voice, the 39th in the collection which M. Robert calls _Ysopet_, in
 the morality to which are the following lines:--
@@ -11591,8 +11552,8 @@ the morality to which are the following lines:--
   Cil qui petit ara,
   De petit contera
   Au Roy de paradis.
-  Qui vit en povrete,
-  Sans point d'iniquite,
+  Qui vit en povreté,
+  Sans point d'iniquité,
   Moult ara grant richesse
   Es cieux, en paradis,
   O dieux et ses amis
@@ -11622,7 +11583,7 @@ attributed to Walter Mapes (Camden Society's Publication), which has the
 following lines:--
 
   Adest ei bajulus cui nomen Gnato,
-  Praecedebat logicum gressu fatigato,
+  Præcedebat logicum gressu fatigato,
   Dorso ferens sarcinam ventre tensus lato,
   Plenam vestro dogmate, o _Sortes et Plato_.
 
@@ -11638,7 +11599,7 @@ schools--a master of arts.
 
 8133-8137. These are the indications of different Psalms. Psalm li begins
 with the words, _Miserere mei, Deus_, secundum magnam misericordiam tuam.
-The thirty-first Psalm commences with the words, _Beati quorum_ remissae
+The thirty-first Psalm commences with the words, _Beati quorum_ remissæ
 sunt iniquitates, _et quorum tecta sunt peccata_. _Beatus vir_, is the
 beginning of Psalm i. The fifth verse of Psalm xxxi contains the words
 _Dixi: Confitebor_ adversum me injustitiam meam Domino.
@@ -11689,7 +11650,7 @@ figs or grapes.
 
 8418. Luke xxi, 1-4.
 
-8444. _Surre._ Syria.
+8444. _Surré._ Syria.
 
 8474. _a mynstrall._ The description of the minstrel given here is very
 curious. For a sketch of the character of this profession see Mr. Shaw's
@@ -11810,9 +11771,9 @@ her young mistress should retain her chemise when she goes to bed:--
   Une chose, se Dex me gart,
   Dont je sui molt esmervillie
   C'onques ne vous vi despoillie,
-  Et si vous ai vij. ans gardee;
-  Molt vous ai souvent esgardee
-  Que vo chemise ne sachies!'
+  Et si vous ai vij. ans gardée;
+  Molt vous ai souvent esgardée
+  Que vo chemise ne sachiés!'
                     _Rom. de la Viol._ l. 577.
 
 The lady explains her conduct by stating that she has a mark on the breast
@@ -11875,7 +11836,7 @@ to the destruction of many of the noblest monuments of medieval art.
 
 The definition given in Piers Ploughman is taken from the Dialogues of
 Secundus, where it is thus expressed:--"Quid est paupertas? Odibile bonum,
-sanitatis mater, curarum remotio, absque sollicitudine semita, sapientiae
+sanitatis mater, curarum remotio, absque sollicitudine semita, sapientiæ
 reparatrix, negotium sine damno, intractabilis substantia, possessio absque
 calumnia, incerta fortuna, sine sollicitudine felicitas." (MS. Reg. 9 A
 xiv, fol. 140 v^o.) See also Roger de Hoveden, p. 816, and Vincent de
@@ -12036,7 +11997,7 @@ which she found in the desert.
   Raveneres almesse,
   Then Grace sholde growe yut
   And grene-leved wexe,
-  And Charite, that child is now,
+  And Charité, that child is now,
   Sholde chaufen of hem self,
   And comfortye all crystene,
   Wold holy churche amende.
@@ -12088,12 +12049,12 @@ du Monde_ of Gautier de Metz (thirteenth century):--
   Dont or n'est pas seus li quars,
   A ichest tans, chou est gramaire,
   Sans laquele nus ne vaut gaire
-  Qui a clergie veut aprendre:
+  Qui à clergie veut aprendre:
   Car petit puet sans li entendre.
   Gramaires si est fondemens
   De clergie et coumenchemens;
   Cou est li porte de science,
-  Par cui on vient a sapience.
+  Par cui on vient à sapience.
   De lettres en gramaire escole
   Qui ensegne et forme parole,
   Soit en Latin ou en Roumans,
@@ -12120,9 +12081,9 @@ Jerusalem, aspired to succeed him:--
   Nam cum transisset Pater illius urbis, et isset
       In coelum subito corpore disposito,
   Tunc exaltari magus hic et pontificari
-      Affectans avide; se tamen haec pavide
+      Affectans avide; se tamen hæc pavide
   Dixit facturum, nisi sciret non nociturum
-      Si praesul fiat, cum Deus hoc cupiat.
+      Si præsul fiat, cum Deus hoc cupiat.
 
 His intrigues being discovered, the emperor drives him away, and in revenge
 he goes and founds a new sect. The story of the pigeon (which is not in
@@ -12143,13 +12104,13 @@ apostasy of Judas and the crucifixion of their Lord.
 10550. _Ne fesauntz y-bake._ The pheasant was formerly held in the same
 honour as the peacock (see before the note on l. 7915), and was served at
 table in the same manner. It was considered one of the most precious
-dishes. See Le Grand d'Aussy, Hist. de la Vie privee des Francois, ii, 19.
+dishes. See Le Grand d'Aussy, Hist. de la Vie privée des François, ii, 19.
 The Miroir de l'Ome (MS. in the possession of Mr. Russell Smith) says
 (punning) of the luxurious prelates of the fourteenth century,--
 
   Pour le phesant et le bon vin
   Le bien-faisant et le divin
-  L'evesque laist a nonchalure;
+  L'evesque laist à nonchalure;
   Si quiert la coupe et crusequin,
   Ainz que la culpe du cristin
   Pour corriger et mettre en cure.
@@ -12314,7 +12275,7 @@ the proverb is alluded to in the following words:--
 
 There was an old French proverbial distich to the same effect,--
 
-  Fumee, pluye, et femme sans raison,
+  Fumée, pluye, et femme sans raison,
   Chassent l'homme de sa maison.
 
 12040. 2 Corinth. xii, 9.
@@ -12334,7 +12295,7 @@ from his birth, but that the blood of the Saviour ran down his spear, and a
 drop of it touching his eye, he was instantly restored to sight, by which
 miracle he was converted. See, in illustration of this subject, Halliwell's
 Coventry Mysteries, p. 334; The Towneley Mysteries, p. 321; Jubinal,
-Mysteres inedits du quinzieme Siecle, tom. ii, pp. 254-257; &c.
+Mystères inédits du quinzième Siècle, tom. ii, pp. 254-257; &c.
 
 12319, 12418, 12420. _Mercy and Truthe, ... Pees ... Rightwisnesse._
 Lydgate seems to have had this passage in his mind, when he described the
@@ -12347,7 +12308,7 @@ four sisters in the following lines at the commencement of one of his poems
   And with foure sustryn, moost goodly of ther cheer,
   List nat departe nor severe in no maneer,
   Of oon accoord by vertuous encrees,
-  Joyned in charite, pryncessis moost enteer,
+  Joyned in charité, pryncessis moost enteer,
   Mercy and Trouthe, Rihtwisnesse and Pees.
 
 12361. _a tale of Waltrot._ This name, like Wade in Chaucer, appears to
@@ -12379,7 +12340,7 @@ properly to a being of the old Teutonic popular mythology, a hob-goblin,
 the "lubber-fiend" of the poet, and seems to be identical with the German
 _kobold_. (See Grimm, Deutsche Mythologie, p. 286.) _Gobelin_ occurs as the
 name of one of the shepherds in the Mystery of the Nativity, printed by M.
-Jubinal in his Mysteres inedits, vol. ii, p. 71. It occurs as the name of a
+Jubinal in his Mystères inédits, vol. ii, p. 71. It occurs as the name of a
 devil in a song of the commencement of the fourteenth century, Political
 Songs, p. 238:--
 
@@ -12434,7 +12395,7 @@ Eve were tempted to eat the fruit.
 
 12896. _Astroth._ This name, as given to one of the devils, occurs in a
 curious list of actors in the Miracle Play of St. Martin, given by M.
-Jubinal, in the preface to his Mysteres inedits, vol. ii, p. ix. It is
+Jubinal, in the preface to his Mystères inédits, vol. ii, p. ix. It is
 similarly used in the Miracle Play of the Martyrdom of St. Peter and St.
 Paul, Jubinal, ib. vol. i, p. 69. In one of the Towneley Mysteries (p.
 246), this name is likewise given to one of the devils:--
@@ -12547,7 +12508,7 @@ by Chaucer, in the opening of the "Wif of Bathes Tale:"--
   This was the old oppynyoun, as I rede
   I speke of many hundrid yer ago;
   But now can no man see noon elves mo.
-  For now the grete charite and prayeres
+  For now the grete charité and prayeres
   Of lymytours and other holy freres,
   That sechen every lond and every streem,
   As thik as motis in the sonne-beem,
@@ -12617,7 +12578,7 @@ called Friars Preachers, because their chief duty was to preach and convert
 heretics. They came into England in 1221, and had their first houses in
 Oxford.
 
-327. _posternes in privite._ These private posterns are frequently alluded
+327. _posternes in privité._ These private posterns are frequently alluded
 to in the reports of the Commissioners for the Dissolution of the
 Monasteries in the reign of Henry VIII. One of them, speaking of the abbey
 of Langden, says, "Wheras immediatly descendying fro my horse, I sent
@@ -12672,7 +12633,7 @@ of "William and the Werwolf." See on this superstition Grimm's Deutsche
 Mythologie, pp. 620-622.
 
 954. _Golias._ There is perhaps here an allusion to the famous satire on
-the Monkish orders entitled Apocalypsis Goliae, printed among the poems of
+the Monkish orders entitled Apocalypsis Goliæ, printed among the poems of
 Walter Mapes.
 
 967. _the kynrede of Caym._ In the popular belief of the middle ages,
@@ -12716,7 +12677,7 @@ GLOSSARY.
 
 a, prefixed to verbs of Anglo-Saxon origin, has sometimes a negative,
 sometimes an intensative power: before nouns and adjectives it represents
-_on_ and _at_, as, a-brood, a-fore (aet-foran), a-rowe (i. e. _on a row_),
+_on_ and _at_, as, a-brood, a-fore (æt-foran), a-rowe (i. e. _on a row_),
 a-loft (i. e. _on high_), &c. In words of Anglo-Norman origin, it answers
 to the prepositions, _a_, _ab_, _ad_, of the original Latin words
 
@@ -12848,7 +12809,7 @@ ampulle (A.N.) 109, _a small vessel containing holy water or oil_
 an (A.S.) 2, _on_
 
 ancres (A.S.) 3, 308, _anachorites, monks who live in solitude_. It is
-applied to nuns, in the early English Rule of Nuns. See Reliquiae Antiquae,
+applied to nuns, in the early English Rule of Nuns. See Reliquiæ Antiquæ,
 vol. ii, p. 1
 
 and (A.S.) the conjunction, is frequently used in the sense of _if_. and
@@ -12908,7 +12869,7 @@ a-thynken (A.S.) 374, _to repent_
 attachen (A.N.) 40, _to attach, indict_
 
 atte (A.S.) _at the_. atte nale, 124, _at the ale_, a corruption of the
-Saxon, aet than ale
+Saxon, æt þan ale
 
 attre (A.S.) 243, _poison, venom_
 
@@ -13250,7 +13211,7 @@ thus used in Chaucer's version of the Romance of the Rose, l. 4033:--
 
 The original is,--
 
-  Ce oi dire en reprovier,
+  Ce oï dire en reprovier,
   Que l'en ne puet fere espervier
   En nule guise _d'ung busart_.
 
@@ -13344,7 +13305,7 @@ broke (A.S.) _a brook_
 
 brok, _pl._ brokkes (A.S.) 119, _an animal of the badger kind_
 
-brol (A.S.) 55, 494, 495, _a child, brat_. Reliquiae Antiquae, ii, 177:--
+brol (A.S.) 55, 494, 495, _a child, brat_. Reliquiæ Antiquæ, ii, 177:--
 
   Whan hi commith to the world, hi doth ham silf sum gode,
   Al bot the wrech _brol_ that is of Adamis blode.
@@ -13384,7 +13345,7 @@ burel (A.N.) _a kind of coarse brown woollen cloth_. burel clerkes, 191.
 Tyrwhit (Glos. to Chaucer) thinks this means _lay clerks_. In the
 Canterbury Tales, l. 7453, the friar says:--
 
-  And more we se of Goddis secre thinges,
+  And more we se of Goddis secré thinges,
   Than _borel folk_, although that thay ben kinges,
   We lyve in povert and in abstinence,
   And _borel folk_ in riches and dispence.
@@ -13514,13 +13475,13 @@ chatre (A.N.) 287, _to chatter_
 chauncelrie (A.N.) _chancery_
 
 cheke (A.S.) 68, _the cheek_, maugree hire chekes, 68. We have in Chaucer,
-_maugre thin eyen_, _maugre hire hed_, &c. See Tyrwhit's Gloss, v.
+_maugré thin eyen_, _maugré hire hed_, &c. See Tyrwhit's Gloss, v.
 _Maugre_. One of these instances is exactly analogous to the passage of
 Piers Ploughman (C. T. l. 6467):--
 
   And happed, al alone as sche was born,
   He saugh a mayde walkyng him by-forn,
-  Of which mayden anoon _maugre hir heed_,
+  Of which mayden anoon _maugré hir heed_,
   By verray fors byraft hir maydenhed.
 
 cheker (A.N.) _the exchequer_
@@ -13614,7 +13575,7 @@ In a document of the date 1416, quoted by Ducange, v. _Cliquetus_, it is
 ordered that, Refectorarius semper teneat hostium refectorii clausum _cum
 cliqueto_
 
-clyngen (A.S.) 276, _to shrink, wither, pine_. Reliq. Antiquae, vol. ii, p.
+clyngen (A.S.) 276, _to shrink, wither, pine_. Reliq. Antiquæ, vol. ii, p.
 210:--
 
   When eld me wol aweld, mi wele is awai;
@@ -14194,7 +14155,7 @@ faunt (A.N.) 134, 144, 336, 403, _a child, infant_
 
 fauntekyn (A.N.) 259, _a young child_
 
-faunteltee, fauntelte (A.N.) 204, 304, _childishness_
+faunteltee, fauntelté (A.N.) 204, 304, _childishness_
 
 faute, _pl._ fautes (A.N.) 179, _a fault_
 
@@ -14470,7 +14431,7 @@ frayel (A.N.) 252, _a wicker basket_. See note. In the romance of Richard
 Coeur de Lion, l. 1547, King Richard says:--
 
   Richard aunsweryth, with herte free,
-  Off froyt there is gret plente;
+  Off froyt there is gret plenté;
   Fyggys, raysyns, in _frayel_,
   And notes may serve us fol wel.
 
@@ -14517,13 +14478,13 @@ gabben (A.N.) 53, _to joke, trifle, tell tales_. gabbyng (A.N.) 423,
 _joking, idle talk_
 
 gadelyng (A.S.) 434, gedelyng, 165. _pl._ gedelynges, 171, gadelynges, 68,
-_a vagabond_. In Anglo-Saxon the word _gaedeling_ means a companion or
+_a vagabond_. In Anglo-Saxon the word _gædeling_ means a companion or
 associate, apparently without any bad sense. Thus the romance of Beowulf
 speaks of the armour of one of the heroes:--
 
-  thaet Onela for-geaf,
-  his gaedelinges
-  gudh-ge-waedu.
+  þæt Onela for-geaf,
+  his gædelinges
+  guð-ge-wædu.
   _which Onela had given him,
   the war-weeds of his comrade,
   the ready implements of war._
@@ -14802,7 +14763,7 @@ Sompnour (C. T. l. 649):--
 
 This passage gives us a remarkable trait of the character of the ribald, or
 harlot, who formed a peculiar class of middle-age society. Among some old
-glosses in the Reliquiae Antiquae (vol. i, p. 7), we find "_scurra_, a
+glosses in the Reliquiæ Antiquæ (vol. i, p. 7), we find "_scurra_, a
 harlotte." In the Coventry Mystery of the Woman taken in Adultery (p. 217),
 it is the young man who is caught with the woman, and not the woman
 herself, who is stigmatised as a _harlot_.
@@ -14982,7 +14943,7 @@ hostrie (A.N.) 352, _a hostelry, inn_
 
 houpen (A.S.) 127, _to hoop, shout_
 
-houres (A.N. heures, _Lat._ horae) _the Romish service_
+houres (A.N. heures, _Lat._ horæ) _the Romish service_
 
 housel (A.S.) 419, _the sacrament of the Eucharist_
 
@@ -15101,7 +15062,7 @@ in describing a battle (Weber, p. 159), says,--
 
 _i.e. there was playing with the sword_. Weber, in his Glossary, has very
 wrongly explained it by _licking_. It is the Anglo-Saxon poetic phrase,
-sweorda ge-lac, _the play of swords_
+sweorda ge-lác, _the play of swords_
 
 lakke (A.S.) 189, _a fault, a lack, or something deficient or wanting_
 
@@ -15150,7 +15111,7 @@ lavendrye (A.N.) 306, _washing_
 
 +lavoures (A.N.) 462, _lavers, ewers, basins to receive water_
 
-leaute (A.N.) _loyalty_
+leauté (A.N.) _loyalty_
 
 leche (A.S.) 443, _a physician_
 
@@ -15260,7 +15221,7 @@ lewed (A.S.) 26, 420, _lay, ignorant, untaught, useless_. lewed of that
 labour, 237, _ignorant of_, or _unskilful in, that labour_. lewednesse, 45,
 _ignorance, rusticity_
 
-lewte (A.N.) _loyalty_
+lewté (A.N.) _loyalty_
 
 lyard (A.N.) 352, 368, a common name for _a horse_, but signifying
 originally _a horse of a grey colour_
@@ -15368,7 +15329,7 @@ it seems to mean generally people who go about from place to place with a
 hypocritical show of praying and devotion. It was certainly in use long
 before the time of the Wycliffites, in Germany as well as in England.
 Johannes Hocsemius (quoted by Ducange, v. _Lollardi_) says, in his
-chronicle on the year 1309, "Eodem anno quidam hypocritae gyrovagi, qui
+chronicle on the year 1309, "Eodem anno quidam hypocritæ gyrovagi, qui
 _Lollardisive Deum laudantes_ vocabantur, per Hannoniam et Brabantiam
 quasdam mulieres nobiles deceperunt," &c. The term, used in the time of
 Piers Ploughman as one of reproach, was afterwards contemptuously given to
@@ -16339,7 +16300,7 @@ salve (A.N.) 337, _to apply salves_
 
 samplarie (A.N.) 234, _type, first copy_
 
-saufte (A.N.) _safety_
+saufté (A.N.) _safety_
 
 saughtne (A.S.) 65, _to be pacified, reconciled_
 
@@ -16744,7 +16705,7 @@ Parv. One of the stage directions in the Coventry Mysteries (p. 244) is:--
 
 tacches (A.N.) 168, _stains, blemishes_
 
-taille (A.N.) 68, _a tally, notched stick; an account scored on a piece of
+taillé (A.N.) 68, _a tally, notched stick; an account scored on a piece of
 wood_. _See_ note
 
 tailen (A.N.) _to keep an account by notches on a stick, to give a tally
@@ -17037,7 +16998,7 @@ veille (A.N.) 104, _an old woman_
 
 vendage (A.N.) 391, _vintage, harvest_
 
-venymouste (A.N.) 378, _the property of being poisonous or venomous_
+venymousté (A.N.) 378, _the property of being poisonous or venomous_
 
 venym (A.N.) 326, _poison_
 
@@ -17504,361 +17465,4 @@ Gloss "speken", corrected from "peken".
 End of the Project Gutenberg EBook of The Vision and Creed of Piers
 Ploughman, Volume II of II, by William Langland
 
-*** END OF THIS PROJECT GUTENBERG EBOOK VISION, CREED, PIERS PLOUGHMAN, VOL II ***
-
-***** This file should be named 43661.txt or 43661.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/3/6/6/43661/
-
-Produced by Mark C. Orton, Keith Edkins and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 43661 ***
